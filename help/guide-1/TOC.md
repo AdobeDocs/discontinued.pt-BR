@@ -1,11 +1,11 @@
 ---
-user-guide-title: Produtos descontinuados para [!DNL Adobe Experience Cloud]
+user-guide-title: Produtos descontinuados da  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Produtos descontinuados
-user-guide-description: Lista de produtos descontinuados para [!DNL Adobe Experience Cloud].
+user-guide-description: Lista de produtos descontinuados da  [!DNL Adobe Experience Cloud].
 source-git-commit: 68baba5c3f5347952723a31971b1b14902f2e442
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -16,6 +16,6 @@ ht-degree: 0%
 + [Device Co-op](device-co-op.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
-+ [Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target=&quot;_blank&quot;}
-+ [Search &amp; Promote](search-promote.md)
++ [Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=pt-BR){target=&quot;_blank&quot;}
++ [Search&amp;Promote](search-promote.md)
 + [Social](social.md)
