@@ -1,8 +1,8 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # Contribuição
@@ -19,7 +19,7 @@ você deve manter esse código. Informe um comportamento inaceitável para
 
 ## Documentação do Guia do colaborador
 
-Consulte a [Guia do colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte o [Manual do colaborador](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html).
 
 ## Tem alguma pergunta?
 
@@ -38,7 +38,7 @@ você está pronto!
 ## Revisões de código
 
 Todos os envios devem assumir a forma de solicitações de pull
-e devem ser revisados pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull automática do GitHub](https://help.github.com/pt/articles/about-pull-requests/)
+e devem ser revisados pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull automática do GitHub](https://help.github.com/articles/about-pull-requests/)
 para obter mais informações sobre como enviar solicitações de pull automática.
 
 <!--
