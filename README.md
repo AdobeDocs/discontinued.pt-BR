@@ -1,10 +1,10 @@
 ---
 source-git-commit: aec0e79e0eeaecce503b8b3dbc3ef493680db534
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# Livefye
+# Livefyre
 
-Esse acordo de recompra agora está arquivado. Consulte discontinue.en para detail.s
+Esse acordo de recompra agora está arquivado. Consulte discontinued.en para obter mais detalhes
