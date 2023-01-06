@@ -1,8 +1,8 @@
 ---
-source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # Contribuição
@@ -19,7 +19,7 @@ você deve manter esse código. Informe um comportamento inaceitável para
 
 ## Documentação do Guia do colaborador
 
-Consulte o [Manual do colaborador](https://docs.adobe.com/content/help/pt-BR/contributor/contributor-guide/introduction.html).
+Consulte o [Manual do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Tem alguma pergunta?
 
