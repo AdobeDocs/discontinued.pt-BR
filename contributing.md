@@ -1,8 +1,8 @@
 ---
 source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # Contribuição
@@ -19,7 +19,7 @@ você deve manter esse código. Informe um comportamento inaceitável para
 
 ## Documentação do Guia do colaborador
 
-Consulte o [Manual do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consulte o [Manual do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
 
 ## Tem alguma pergunta?
 
@@ -38,7 +38,7 @@ você está pronto!
 ## Revisões de código
 
 Todos os envios devem assumir a forma de solicitações de pull
-e devem ser revisados pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull automática do GitHub](https://help.github.com/articles/about-pull-requests/)
+e devem ser revisados pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull automática do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 para obter mais informações sobre como enviar solicitações de pull automática.
 
 <!--
