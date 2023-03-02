@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: “Perguntas frequentes sobre o fim da vida útil do [!DNL Device Co-op]”
 description: Saiba mais sobre os planos de fim de vida útil do Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
+workflow-type: tm+mt
+source-wordcount: '1138'
+ht-degree: 95%
 
 ---
 
@@ -101,3 +101,8 @@ A adoção de outros recursos não é obrigatória. Só é recomendável se voc�
 ## Quanto tempo irá demorar a adoção?
 
 Isso dependerá do recurso. Por exemplo, se um cliente do Analytics Ultimate que usa a análise entre dispositivos com o [!DNL Device Co-op] precisa migrar para o Gráfico de dispositivos privados em tempo real ou a Configuração em campo, a adoção levará algum tempo.
+
+## E quanto ao [!UICONTROL Pessoas] métrica?
+
+Com a descontinuação do [!DNL Device Co-op], o [!UICONTROL Pessoas] não é mais relevante. No futuro próximo (data a ser definida), removeremos a variável [!UICONTROL Pessoas] métrica. Nesse ponto, redirecionaremos seus dados para o [!UICONTROL Visitante único] no Analytics para impedir que projetos, segmentos e métricas calculadas sejam quebrados.
+
