@@ -3,7 +3,7 @@ title: "[!DNL Adobe Search&Promote]Comunicado de fim de serviço"
 description: Saiba mais sobre o  [!DNL Adobe Search&Promote] Comunicado de fim de serviço.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
