@@ -2,8 +2,8 @@
 title: Visão geral dos produtos [!DNL Adobe Experience Cloud] descontinuados
 description: Visão geral de produtos descontinuados ou em fim de vida útil para  [!DNL Adobe Experience Cloud]  e  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
-workflow-type: tm+mt
+source-git-commit: 1d514ff65d7de9d9f95f5ff68100ccbe09d5f95f
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -21,6 +21,7 @@ Ocasionalmente, a Adobe encerra a venda, o desenvolvimento ou o suporte para um 
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=pt-BR){target="_blank"}
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
++ [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 
 <!--
 ## Notifications of upcoming products to be discontinued
