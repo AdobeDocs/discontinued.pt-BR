@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Search&Promote]Comunicado de fim de serviço"
 description: Saiba mais sobre o  [!DNL Adobe Search&Promote] Comunicado de fim de serviço.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
+source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 67%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 100%
 
 ## Perguntas frequentes sobre o Fim do Serviço para [!DNL Search&Promote]
 
-### **_Em que data [!DNL Search&Promote] deixará de operar?_**
+### **_Em que data [!DNL Search&Promote] deixar de operar?_**
 
-Fim do serviço para [!DNL Adobe Search&Promote] está agendado para **1º de setembro de 2022**. Nessa data, a interface administrativa do [!DNL Search&Promote] não estará mais acessível e as solicitações para APIs [!DNL Search&Promote] não fornecerão mais resultados. Antes dessa data, o serviço estará totalmente disponível e funcional. Em antecipação a 1º de setembro de 2022, os direitos contratuais de [!DNL Search&Promote] não serão permitidos após 31 de agosto de 2022.
+Fim do serviço do [!DNL Adobe Search&Promote] foi programado para **1 de setembro de 2022**. Nessa data, a Comissão [!DNL Search&Promote] administrativa já não estava acessível e as solicitações para [!DNL Search&Promote] As APIs não fornecem mais resultados.
 
 ### **_O que acontecerá se uma pesquisa ou outra solicitação de API for feita para [!DNL Search&Promote]?_**
 
-As pesquisas e outras solicitações de API feitas para [!DNL Search&Promote] não retornará mais resultados. As solicitações podem resultar em um erro &quot;Host não encontrado&quot;, um redirecionamento HTTP 3xx ou um erro HTTP, como 404, 408 ou outro código de erro HTTP.
+Solicitações de pesquisa e outras API feitas no [!DNL Search&Promote] não retorna mais resultados. As solicitações podem resultar em um erro &quot;Host não encontrado&quot;, um redirecionamento HTTP 3xx ou um erro HTTP, como 404, 408 ou outro código de erro HTTP.
 
 ### **_A Adobe tem opções alternativas para pesquisa de site e pesquisa comercial?_**
 
-Sim. Para pesquisa de produto e comércio, o [Live Search de  [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) é o aplicativo de pesquisa da Adobe a partir de agora.
+Sim. Para pesquisa de produto e comércio, o [Live Search de  [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) é o aplicativo de pesquisa da Adobe a partir de agora.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
