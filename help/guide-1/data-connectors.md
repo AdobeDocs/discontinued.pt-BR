@@ -1,21 +1,21 @@
 ---
-description: Saiba mais sobre a descontinuação das integrações do Adobe Analytics Data Connectors.
-title: Fim da vida útil para integrações do Analytics Data Connectors
+description: Saiba mais sobre a descontinuação de integrações do Adobe Analytics Data Connectors.
+title: Fim da vida útil das integrações do Analytics Data Connectors
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Fim da vida útil para integrações do Adobe Data Connectors
+# Fim da vida útil das integrações do Adobe Data Connectors
 
 **Em 19 de agosto de 2021**, a Adobe descontinuou as integrações do Data Connectors e as substituiu pelo [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). A Adobe pretende tornar a transição o mais simples possível para clientes e parceiros.
 
 O Adobe Analytics tem como objetivo fornecer as melhores análises da web e de marketing para atender às necessidades dos clientes. À medida que as necessidades tecnológicas e empresariais evoluem, a Adobe se esforça para fornecer e atender continuamente os mais altos padrões. As APIs que alimentam as integrações do Data Connectors não atendem mais a esses padrões e não podem ser mantidas na infraestrutura tecnológica moderna da Adobe.
 
-Observe que esse anúncio do fim da vida útil não se aplica aos Conectores de origem de Adobe, que são um recurso de coleta de dados no Adobe Experience Platform. Conectores de origem de Adobe, ocasionalmente chamados de Adobe Data Connectors, são totalmente suportados pelo Adobe.
+Observe que esse comunicado do fim da vida útil não se aplica aos Adobe Source Connectors, que são um recurso de coleção de dados na Adobe Experience Platform. Adobe Source Connectors, ocasionalmente chamados de Adobe Data Connectors, têm total suporte da Adobe.
 
 ## Por que a Adobe encerrou a vida útil desse recurso?
 
