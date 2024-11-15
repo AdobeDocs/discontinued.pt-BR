@@ -2,10 +2,10 @@
 user-guide-title: Produtos descontinuados da  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Produtos descontinuados
 user-guide-description: Lista de produtos descontinuados da  [!DNL Adobe Experience Cloud].
-source-git-commit: 6cd955bbc9556dd0f097bb1ee735321a26f252ee
-workflow-type: ht
-source-wordcount: '37'
-ht-degree: 100%
+source-git-commit: 22deb719690c0eca6ce1b99b2180f892434a231d
+workflow-type: tm+mt
+source-wordcount: '36'
+ht-degree: 88%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 + [Conectores de dados](data-connectors.md)
 + [Data Workbench](data-workbench.md)
 + [Device Co-op](device-co-op.md)
-+ [Gerenciador de canais para Adobe Commerce](commerce-channels.md)
++ [Canais do Adobe Commerce](commerce-channels.md)
 + [Biblioteca da Experience Cloud](experience-cloud-library.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
