@@ -4,9 +4,9 @@ title: Perguntas frequentes sobre o fim da vida útil do [!DNL Device Co-op]
 description: Saiba mais sobre os planos de fim de vida útil do Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: f259a6d2bac47e9cf3a829017642119357208c7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1053'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Os seguintes aplicativos serão afetados pelos procedimentos de fim de vida úti
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=pt-BR)
-- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=en)
+- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/pt-br/docs/advertising)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=pt-BR)
 
 ## Quais opções tenho como alternativas para o [!DNL Device Co-op]?
