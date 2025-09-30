@@ -4,9 +4,9 @@ description: Este é um teste oculto
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 5c9e5ae15154f9ed1bdcd398c3e6866eee13c029
+source-git-commit: 6d5ca49ae613ba51468a4e1a7766dc92992ead08
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '35'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Este é um teste oculto.
 
 ## Teste de focalização de texto
 
-Não, sem texto em foco
+Nenhum texto em foco
 
 ```
 ![alt text](assets/maui-flip.jpg)
@@ -27,7 +27,7 @@ Não, sem texto em foco
 ![alt texto](assets/maui-flip.jpg)
 
 
-Sim, sim texto em foco
+Sim, passar o texto
 
 ```
 ![alt text](assets/maui-flip.jpg "Hover text")
