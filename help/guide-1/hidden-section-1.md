@@ -15,6 +15,6 @@ ht-degree: 0%
 Teste oculto 1
 Teste: verifique se essa alteração é aplicada em todos os repositórios de idioma.
 
-# Título oculto
+&#x200B;# Título oculto
 
 Validação de maiúsculas
