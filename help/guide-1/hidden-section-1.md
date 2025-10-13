@@ -3,9 +3,9 @@ title: Teste da seção 1 oculta
 description: Este é um teste oculto 1
 hide: true
 hidefromtoc: true
-source-git-commit: 3bf5205a2f69b33f19b7e1cb4568d6a8090bcf8f
+source-git-commit: 0532adaaec172a8b9cf542fe7ee3a8e2b68f5408
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
@@ -14,3 +14,7 @@ ht-degree: 0%
 
 Teste oculto 1
 Teste: verifique se essa alteração é aplicada em todos os repositórios de idioma.
+
+# Título oculto
+
+Validação de maiúsculas
