@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: d8456b4db6630d3669d088ac89f8eaf365d42aad
+source-git-commit: 0f37cc8cfe6eaacc33ef3ba1af1ed4fc3ef3a607
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Este é um teste oculto.  Ele não deve aparecer na pesquisa.
 
 Bob estava aqui para uma demonstração de velocidade, e novamente depois que Lakshay entrou em produção...
 
-22 de outubro , Bob e Sarika estão aqui várias vezes!
+22 de outubro , Bob e Sarika estão aqui várias vezes e várias vezes!
 
 ## Teste de focalização de texto {#this-is-a-heading-anchor}
 
