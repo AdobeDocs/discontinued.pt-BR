@@ -7,18 +7,18 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 0f37cc8cfe6eaacc33ef3ba1af1ed4fc3ef3a607
+source-git-commit: 5eb20f67529727dc9f9d389b64ca042b8e415a9e
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # Teste oculto
 
-Este é um teste oculto.  Ele não deve aparecer na pesquisa.
+Este é um teste oculto. Estou adicionando este `[` para garantir que funcione bem na renderização v2.
 
-Bob estava aqui para uma demonstração de velocidade, e novamente depois que Lakshay entrou em produção...
+Bob estava aqui para uma demonstração de velocidade, e novamente depois que Lakshay entrou em produção.
 
 22 de outubro , Bob e Sarika estão aqui várias vezes e várias vezes!
 
