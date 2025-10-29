@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c5ce9a3708541560e86ccad5b1407788b570fd96
+source-git-commit: c8b449fadd96b59ed78668fd557bc4f1853820d3
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Bob estava aqui para uma demonstração de velocidade, e novamente depois que La
 
 Matt estava aqui - 28 de outubro.
 
-22 de outubro , Bob e Sarika estão aqui várias vezes e várias vezes!
+29 de outubro de 2025 - Bob e Sarika estão aqui várias vezes e várias vezes!
 
 ## Links relativos
 
