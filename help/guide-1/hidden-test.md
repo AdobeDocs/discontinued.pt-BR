@@ -28,8 +28,8 @@ Notificação do Slack? 30 de outubro.
 
 | Tarefa | Descrição |
 | -----------| ---------- |  
-| [Implementar o Serviço da Experience Cloud ID para o Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | A Adobe também recomenda configurar [IDs adicionais do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura no Experience Cloud. |
-| Atualize seu `s_code` existente para a versão H.27.3 ou posterior, ou seu `AppMeasurement.js` existente para a versão 1.4 ou posterior. | Estes arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) nas Ferramentas administrativas do Analytics. (O guia de [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) estará disponível se você precisar de mais informações sobre o `AppMeasurement.js`.) |
+| [Implementar o Serviço da Experience Cloud ID para o Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=pt-BR) | A Adobe também recomenda configurar [IDs adicionais do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura no Experience Cloud. |
+| Atualize seu `s_code` existente para a versão H.27.3 ou posterior, ou seu `AppMeasurement.js` existente para a versão 1.4 ou posterior. | Estes arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=pt-BR) nas Ferramentas administrativas do Analytics. (O guia de [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=pt-BR#js) estará disponível se você precisar de mais informações sobre o `AppMeasurement.js`.) |
 
 ## Links relativos
 
