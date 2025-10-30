@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 19ea79fc93e7d47d09dd8d96189578ef56c82314
+source-git-commit: feaf14e57e2e0aefbe07fd254b1f2a7ebe90ba89
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
@@ -23,6 +23,13 @@ Bob estava aqui para uma demonstração de velocidade, e novamente depois que La
 Matt estava aqui - 28 de outubro.
 
 Notificação do Slack? 30 de outubro.
+
+## Tabela incorreta
+
+| Tarefa | Descrição |
+| -----------| ---------- |  
+| [Implementar o Serviço da Experience Cloud ID para o Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | A Adobe também recomenda configurar [IDs adicionais do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura no Experience Cloud. |
+| Atualize seu `s_code` existente para a versão H.27.3 ou posterior, ou seu `AppMeasurement.js` existente para a versão 1.4 ou posterior. | Estes arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) nas Ferramentas administrativas do Analytics. (O guia de [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) estará disponível se você precisar de mais informações sobre o `AppMeasurement.js`.) |
 
 ## Links relativos
 
