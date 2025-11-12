@@ -2,7 +2,7 @@
 title: Perguntas frequentes sobre o fim da vida útil do Adobe Mobile Services
 description: Obtenha respostas para perguntas frequentes sobre o comunicado do fim da vida útil do Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 100%
@@ -44,3 +44,4 @@ O Adobe oferece três caminhos de transição, dependendo do caso de uso de sua 
 ## Onde posso tirar eventuais dúvidas?
 
 Consulte a [Spark Page do fim da vida útil do Adobe Mobile Services](https://spark.adobe.com/page/C6D30y09zaRpD/) para obter mais informações. Entre em contato com o representante da Adobe para esclarecer quaisquer dúvidas.
+

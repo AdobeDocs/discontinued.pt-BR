@@ -1,13 +1,13 @@
 ---
 title: Abastecimento de loja para o Adobe Commerce
 description: Saiba quando o Atendimento da loja para extensões do Adobe Commerce chegou ao fim da vida útil.
-source-git-commit: c772662c6bd4e8a7a28282120114dfde62ba7bc7
+exl-id: 15a36e9c-3480-436b-8315-5fdedcf5b3dd
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 30%
 
 ---
-
 
 # Abastecimento de loja para o Adobe Commerce
 
