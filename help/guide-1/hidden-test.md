@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: d133a7318cfe4c77186b2de46fded4009b9b41e8
+source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 2%
 
 ---
 
@@ -20,28 +20,19 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 12 de novembro de 2025
 
-## Tabela incorreta
+## Teste de vídeo
 
-**Original**
+### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
-| Tarefa | Descrição |
-| -----------| ---------- |
-| [Implementar o Serviço da Experience Cloud ID para o Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=pt-BR) | A Adobe também recomenda configurar [IDs adicionais do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura no Experience Cloud. |
-| Atualize seu `s_code` existente para a versão H.27.3 ou posterior, ou seu `AppMeasurement.js` existente para a versão 1.4 ou posterior. | Estes arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=pt-BR) nas Ferramentas administrativas do Analytics. (O guia de [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=pt-BR#js) estará disponível se você precisar de mais informações sobre o `AppMeasurement.js`.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
-**Dois espaços extras**
+### Com transcrição definida como verdadeira
 
-| Tarefa | Descrição |
-| -----------| ---------- |
-| [Implementar o Serviço da Experience Cloud ID para o Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=pt-BR) | A Adobe também recomenda configurar [IDs adicionais do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura no Experience Cloud. |
-| Atualize seu `s_code` existente para a versão H.27.3 ou posterior, ou seu `AppMeasurement.js` existente para a versão 1.4 ou posterior. | Estes arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=pt-BR) nas Ferramentas administrativas do Analytics. (O guia de [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=pt-BR#js) estará disponível se você precisar de mais informações sobre o `AppMeasurement.js`.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
-**Espaços extras, mas não após o divisor de cabeçalho**
+### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
-| Tarefa | Descrição |
-| -----------| ---------- |
-| [Implementar o Serviço da Experience Cloud ID para o Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=pt-BR) | A Adobe também recomenda configurar [IDs adicionais do cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=pt-BR). Essas IDs estão associadas a cada visitante e ativam a funcionalidade atual e futura no Experience Cloud. |
-| Atualize seu `s_code` existente para a versão H.27.3 ou posterior, ou seu `AppMeasurement.js` existente para a versão 1.4 ou posterior. | Estes arquivos estão disponíveis para download no [Gerenciador de código](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=pt-BR) nas Ferramentas administrativas do Analytics. (O guia de [Implementação do JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=pt-BR#js) estará disponível se você precisar de mais informações sobre o `AppMeasurement.js`.) |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
