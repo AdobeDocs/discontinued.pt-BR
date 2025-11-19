@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
+source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -18,21 +18,77 @@ ht-degree: 2%
 
 Este é um teste oculto. Estou adicionando este `[` para garantir que funcione bem na renderização v2.
 
-12 de novembro de 2025
+## Abrir em nova guia
+
+`[See What's new](auditor.md) {target="_blank"}`
+
+[Abrir na mesma guia](auditor.md)
+
+[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
+
+[Nova guia sem espaço com aspas](auditor.md){target="_blank"}
+
+[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
+
+[Nova guia sem espaço sem aspas](auditor.md){target=_blank}
+
+[Nova guia com deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Nova guia com link externo](https://www.adobe.com){target="_blank"}
+
+[Novo link da raiz da guia](/help/guide-1/auditor.md){target="_blank"}
+
+
+<table>
+  <tr>
+    <th>Com aspas</a></th>
+    <th>Sem aspas</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com" target="_blank">Nova guia Adobe</a></td>
+    <td><a href="https://www.adobe.com" target="_blank">Nova guia Adobe</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com">Adobe sem nova guia</a></td>
+    <td><a href="https://www.adobe.com">Adobe sem nova guia</td>
+  </tr>
+</table>
+
+## Comentar teste
+
+18 de novembro de 2025
+
+Comente abaixo. Se essa é a última coisa que você vê neste artigo, é devido à sintaxe do comentário.
+
+1. Clique em **[!UICONTROL Criar]**.
+
+<!-- ## Create an exclusion using Advanced Search
+
+You can also create exclusions using [!UICONTROL Advanced Search] on the [Catalog Search](/help/main/c-recommendations/c-products/catalog-search.md#save-as) page ( [!UICONTROL Recommendations] > [!UICONTROL Catalog Search] > [!UICONTROL Advanced Search]). 
+
+![Save as dialog](/help/main/c-recommendations/c-products/assets/save-as.png)
+
+After creating a search using "id > contains," for example, you can then click [!UICONTROL Save As] > [!UICONTROL Exclusion].
+
+>[!IMPORTANT]
+>
+>The [!UICONTROL Advanced Search] functionality is case-insensitive; however, products returned at the time of delivery are based on case-sensitive search. This mismatch might lead to confusion. Ensure that you consider case-sensitivity when you create exclusions based on results using the Advanced Search functionality. For example, if you perform a search for "Holiday," that initial search lists results containing "Holiday" and "holiday." If you then create an exclusion with the intent to exclude products containing "holiday," only products containing "holiday" are excluded. Products containing "Holiday" are not excluded. -->
+
+Esta linha aparece após o comentário.
 
 ## Teste de vídeo
 
 ### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Com transcrição definida como verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
