@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ba551c3fc7714cce505ba95fe83e8608381d1f2c
+source-git-commit: 9fa70e77b7c9658f618410ab6045fa680df606e0
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,23 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 ## Abrir em nova guia
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir na mesma guia](auditor.md)
 
-[Nova guia com espaço e aspas](auditor.md){target="_blank"} 
+[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
 
 [Nova guia com âncora](auditor.md#_blank)
 
 [Nova guia sem espaço com aspas](auditor.md){target="_blank"}
 
-[Nova guia com espaço sem aspas](auditor.md){target=_blank} 
+[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
 
 [Nova guia sem espaço sem aspas](auditor.md){target=_blank}
 
 [Nova guia com deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Ancorar nova guia com deep link](commerce-channels.md#channel-manager-extension#_blank)
 
 [Nova guia com link externo](https://www.adobe.com){target="_blank"}
 
@@ -82,15 +84,15 @@ Esta linha aparece após o comentário.
 
 ### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Com transcrição definida como verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
