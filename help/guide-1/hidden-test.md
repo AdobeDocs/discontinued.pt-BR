@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
+source-git-commit: ba551c3fc7714cce505ba95fe83e8608381d1f2c
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 1%
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
 
@@ -20,15 +20,17 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 ## Abrir em nova guia
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir na mesma guia](auditor.md)
 
-[Nova guia com espaço e aspas](auditor.md){target="_blank"} 
+[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
+
+[Nova guia com âncora](auditor.md#_blank)
 
 [Nova guia sem espaço com aspas](auditor.md){target="_blank"}
 
-[Nova guia com espaço sem aspas](auditor.md){target=_blank} 
+[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
 
 [Nova guia sem espaço sem aspas](auditor.md){target=_blank}
 
@@ -80,15 +82,15 @@ Esta linha aparece após o comentário.
 
 ### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Com transcrição definida como verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
