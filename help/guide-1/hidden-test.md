@@ -20,17 +20,17 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 ## Abrir em nova guia
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [Abrir na mesma guia](auditor.md)
 
-[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
+[Nova guia com espaço e aspas](auditor.md){target="_blank"} 
 
 [Nova guia com âncora](auditor.md#_blank)
 
 [Nova guia sem espaço com aspas](auditor.md){target="_blank"}
 
-[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
+[Nova guia com espaço sem aspas](auditor.md){target=_blank} 
 
 [Nova guia sem espaço sem aspas](auditor.md){target=_blank}
 
