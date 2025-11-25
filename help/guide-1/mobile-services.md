@@ -2,10 +2,10 @@
 title: Perguntas frequentes sobre o fim da vida útil do Adobe Mobile Services
 description: Obtenha respostas para perguntas frequentes sobre o comunicado do fim da vida útil do Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 100%
+source-wordcount: '394'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +19,7 @@ O Mobile Services chegou ao fim da vida útil em 31 de dezembro de 2022. O Mobil
 
 ## O que está incluído e o que não está?
 
-Esse fim de vida útil inclui apenas o Adobe Mobile Services, a plataforma independente em [mobilemarketing.adobe.com](https://mobilemarketing.adobe.com). Os SDKs versão 4 Mobile que dependem dessa interface foram encerrados em 31 de agosto de 2021.
+Este fim da vida útil inclui somente o Adobe Mobile Services, a plataforma independente em `mobilemarketing.adobe.com`. Os SDKs versão 4 Mobile que dependem dessa interface foram encerrados em 31 de agosto de 2021.
 
 Esse fim de vida útil NÃO inclui o Adobe Analytics para aplicativos móveis, parte dos SDKs do Adobe Experience Platform Mobile. Esses recursos, que incluem comportamento no aplicativo, análise de ciclo de vida, rastreamento de interação de mensagens e perfis de público-alvo, continuarão recebendo suporte da Adobe.
 
