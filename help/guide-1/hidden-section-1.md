@@ -4,7 +4,7 @@ description: Este é um teste oculto 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 9150b1804e1832d0f08320739c9dc4919ffea6a3
+source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -12,7 +12,6 @@ ht-degree: 0%
 ---
 
 # Teste de seção oculta 1
-
 
 24 de novembro de 2025
 
@@ -52,8 +51,8 @@ Matt estava aqui
 
 ## Nenhuma transcrição
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcrição verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
