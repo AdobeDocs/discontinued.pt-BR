@@ -7,20 +7,20 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Teste oculto
 
-2 de dezembro
+8 de janeiro
 
 Este é um teste oculto. Estou adicionando este `[` para garantir que funcione bem na renderização v2!
 
-## Abrir em nova guia {#section_92882928}
+## Abrir em uma nova guia {#section_92882928}
 
 `[See What's new](auditor.md){target="_blank"} `
 
@@ -73,7 +73,7 @@ Second new line. -->
 
 Comente abaixo. Se essa é a última coisa que você vê neste artigo, é devido à sintaxe do comentário.
 
-1. Clique em **[!UICONTROL Criar]**.
+1. Clique em **[!UICONTROL Create]**.
 
 <!-- ## Create an exclusion using Advanced Search
 
