@@ -2,7 +2,7 @@
 keywords: Gráfico de dispositivos;fim da vida útil
 title: Gráfico de dispositivos
 description: Saiba mais sobre os planos para o fim da vida útil do gráfico de dispositivos.
-source-git-commit: c7264d94e52fb3efad7d59edd1b73f805a9a00f6
+source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -14,7 +14,6 @@ ht-degree: 0%
 >[!WARNING]
 >
 >O Gráfico de dispositivos na Análise entre dispositivos não está mais disponível a partir de **31 de dezembro de 2025**. Alterne qualquer conjunto de relatórios virtuais habilitado para o gráfico de dispositivos atual para o [método baseado em campo](https://experienceleague.adobe.com/pt-br/docs/analytics/components/cda/field-based-stitching).
->
 
 O Cross-Device Analytics usou o Gráfico privado para compilar dados. O Gráfico privado é um repositório de IDs de dispositivos com hash específicas da sua organização. O CDA se comunica regularmente com o gráfico do dispositivo para vincular dispositivos.
 
@@ -25,7 +24,6 @@ Se você pretendia implementar o Cross-Device Analytics usando o método de grá
 >[!WARNING]
 >
 >O não cumprimento de todos os pré-requisitos pode gerar a incapacidade de ativar o Cross-Device Analytics ou resultados inadequados ao compilar os dados.
->
 
 * Sua organização deve usar o [Gráfico privado do Serviço de Identidade da Adobe Experience Platform](https://business.adobe.com/br/products/experience-platform/identity-service.html). Consulte também a [Página inicial](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=pt-BR) no guia do usuário do Serviço de identidade.
 * Sua implementação deve usar a versão mais recente do Serviço da Experience Cloud ID (ECID). Consulte a [Página inicial](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) no guia do usuário do Serviço de ID. Provavelmente, a maioria das implementações que usam [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=pt-BR) na Adobe Experience Platform já tem o Serviço de ID implantado.
