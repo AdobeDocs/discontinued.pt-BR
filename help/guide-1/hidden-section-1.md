@@ -4,16 +4,17 @@ description: Este é um teste oculto 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
+hold: true
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 3%
 
 ---
 
 # Teste de seção oculta 1
 
-24 de novembro de 2025
+3 de fevereiro de 2026
 
 1. Ir aqui
 
@@ -26,7 +27,7 @@ Second new line. -->
 
 Comente abaixo. Se essa é a última coisa que você vê neste artigo, é devido à sintaxe do comentário.
 
-1. Clique em **[!UICONTROL Criar]**.
+1. Clique em **[!UICONTROL Create]**.
 
 <!-- ## Create an exclusion using Advanced Search
 
