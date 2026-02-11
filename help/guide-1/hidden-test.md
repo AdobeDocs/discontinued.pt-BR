@@ -8,9 +8,9 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 32b9cb0dd618b9cb97b22e54e17d05f75f3c51fa
+source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '223'
 ht-degree: 6%
 
 ---
@@ -20,27 +20,29 @@ ht-degree: 6%
 4 de fevereiro de 2026 - `hold: true` está em.
 Testando nova chave
 
+11 de fevereiro: Testando a retenção.
+
 Este é um teste oculto. Estou adicionando este `[` para garantir que funcione bem na renderização v2!
 
 ## Abrir em uma nova guia {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir na mesma guia](auditor.md)
 
-[Nova guia com espaço e aspas](auditor.md){target="_blank"} 
+[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
 
-[Nova guia com Âncora](auditor.md){target=_blank}
+[Nova guia com Âncora](auditor.md){target=&quot;_blank}
 
 [Nova guia sem espaço com aspas](auditor.md){target="_blank"}
 
-[Nova guia com espaço sem aspas](auditor.md){target=_blank} 
+[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
 
 [Nova guia sem espaço sem aspas](auditor.md){target=_blank}
 
 [Nova guia com deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancorar nova guia com deep link](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancorar nova guia com deep link](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nova guia com link externo](https://www.adobe.com){target="_blank"}
 
@@ -95,15 +97,15 @@ Esta linha aparece após o comentário.
 
 ### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Com transcrição definida como verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
