@@ -1,8 +1,9 @@
 ---
 title: Canais do Adobe Commerce
 description: Saiba quando as extensões do canal de vendas da Amazon e do gerenciador de canais do Adobe Commerce chegaram ao fim da vida útil.
+hold: true
 exl-id: 40ff120b-4f37-4ef6-a3ad-e7ee67dd3e23
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: d6a0342750804a56c686c966801c411090b9672a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -28,4 +29,3 @@ Como alternativa, a Adobe recomenda explorar as soluções de parceiros e as ext
 Em 1º de julho de 2024, a Adobe descontinuou a extensão Gerenciador de canais e sua respectiva integração com o Walmart marketplace. A extensão Gerenciador de canais não está mais disponível por meio do Adobe Commerce Marketplace.
 
 Como alternativa, a Adobe recomenda explorar as soluções de parceiros e as extensões de terceiros disponíveis no [Adobe Commerce Marketplace](https://commercemarketplace.adobe.com/) para encontrar a solução que melhor atenda às suas necessidades.
-
