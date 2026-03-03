@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 6%
+source-wordcount: '238'
+ht-degree: 7%
 
 ---
 
 # Teste oculto
 
-4 de fevereiro de 2026 - `hold: true` está em.
+4 de março de 2026 - `hold: true` está em.
+
 Testando nova chave
 
 11 de fevereiro: Testando a retenção.
