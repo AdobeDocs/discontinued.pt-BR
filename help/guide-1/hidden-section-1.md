@@ -3,9 +3,7 @@ title: Teste da seção 1 oculta
 description: Este é um teste oculto 1
 auto-video-transcripts: false
 hide: true
-hidefromtoc: true
-hold: true
-source-git-commit: 89758ac0005261dbe337b88dbce4eae9edaedd1f
+source-git-commit: 5ed891ab8d3b4100cb7bf9d887e2b545ec4626f4
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
