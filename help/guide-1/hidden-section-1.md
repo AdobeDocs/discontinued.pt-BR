@@ -5,7 +5,7 @@ auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 hold: true
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 89758ac0005261dbe337b88dbce4eae9edaedd1f
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 # Teste de seção oculta 1
 
-26 de fevereiro de 2026
+9 de março de 2026
 
 1. Ir aqui
 
@@ -52,8 +52,8 @@ Matt estava aqui
 
 ## Nenhuma transcrição
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcrição verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
