@@ -3,16 +3,16 @@ title: Teste da seção 1 oculta
 description: Este é um teste oculto 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 5ed891ab8d3b4100cb7bf9d887e2b545ec4626f4
+source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 3%
+source-wordcount: '70'
+ht-degree: 2%
 
 ---
 
 # Teste de seção oculta 1
 
-9 de março de 2026
+10 de março de 2026 - Não há `hold: true` para este artigo
 
 1. Ir aqui
 
@@ -50,8 +50,8 @@ Matt estava aqui
 
 ## Nenhuma transcrição
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcrição verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
