@@ -41,7 +41,7 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 [Nova guia com deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancorar nova guia com deep link](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancorar nova guia com deep link](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nova guia com link externo](https://www.adobe.com){target="_blank"}
 
