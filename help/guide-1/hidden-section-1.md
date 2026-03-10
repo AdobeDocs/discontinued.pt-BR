@@ -3,16 +3,16 @@ title: Teste da seção 1 oculta
 description: Este é um teste oculto 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
 # Teste de seção oculta 1
 
-10 de março de 2026 - Não há `hold: true` para este artigo
+10 de março de 2026, 9:25 - `hold: true` para este artigo
 
 1. Ir aqui
 
