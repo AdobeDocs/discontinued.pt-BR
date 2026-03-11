@@ -8,7 +8,7 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
+source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 8%
@@ -25,23 +25,23 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 ## Abrir em uma nova guia {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir na mesma guia](auditor.md)
 
-[Nova guia com espaço e aspas](auditor.md){target="_blank"} 
+[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
 
-[Nova guia com Âncora](auditor.md){target=_blank}
+[Nova guia com Âncora](auditor.md){target=&quot;_blank}
 
 [Nova guia sem espaço com aspas](auditor.md){target="_blank"}
 
-[Nova guia com espaço sem aspas](auditor.md){target=_blank} 
+[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
 
 [Nova guia sem espaço sem aspas](auditor.md){target=_blank}
 
 [Nova guia com deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancorar nova guia com deep link](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancorar nova guia com deep link](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nova guia com link externo](https://www.adobe.com){target="_blank"}
 
@@ -67,18 +67,21 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 18 de novembro de 2025
 
-<!-- ## Comment with basic text
+<!-- 
+## Comment with basic text
 
 This is a new line.
 
-Second new line. -->
+Second new line. 
+-->
 
 
 Comente abaixo. Se essa é a última coisa que você vê neste artigo, é devido à sintaxe do comentário.
 
 1. Clique em **[!UICONTROL Create]**.
 
-<!-- ## Create an exclusion using Advanced Search
+<!-- 
+## Create an exclusion using Advanced Search
 
 You can also create exclusions using [!UICONTROL Advanced Search] on the [Catalog Search](/help/main/c-recommendations/c-products/catalog-search.md#save-as) page ( [!UICONTROL Recommendations] > [!UICONTROL Catalog Search] > [!UICONTROL Advanced Search]). 
 
@@ -88,7 +91,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 >[!IMPORTANT]
 >
->The [!UICONTROL Advanced Search] functionality is case-insensitive; however, products returned at the time of delivery are based on case-sensitive search. This mismatch might lead to confusion. Ensure that you consider case-sensitivity when you create exclusions based on results using the Advanced Search functionality. For example, if you perform a search for "Holiday," that initial search lists results containing "Holiday" and "holiday." If you then create an exclusion with the intent to exclude products containing "holiday," only products containing "holiday" are excluded. Products containing "Holiday" are not excluded. -->
+>The [!UICONTROL Advanced Search] functionality is case-insensitive; however, products returned at the time of delivery are based on case-sensitive search. This mismatch might lead to confusion. Ensure that you consider case-sensitivity when you create exclusions based on results using the Advanced Search functionality. For example, if you perform a search for "Holiday," that initial search lists results containing "Holiday" and "holiday." If you then create an exclusion with the intent to exclude products containing "holiday," only products containing "holiday" are excluded. Products containing "Holiday" are not excluded. 
+-->
 
 Esta linha aparece após o comentário.
 
@@ -96,15 +100,15 @@ Esta linha aparece após o comentário.
 
 ### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Com transcrição definida como verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
