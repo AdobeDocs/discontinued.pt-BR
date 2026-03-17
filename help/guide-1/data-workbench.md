@@ -2,9 +2,9 @@
 title: Fim da vida útil do [!DNL Data Workbench]
 description: Este documento aborda as perguntas frequentes sobre o fim da vida útil do  [!DNL Data Workbench].
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '431'
 ht-degree: 99%
 
 ---
@@ -19,7 +19,7 @@ Este comunicado afeta todas as soluções que dependem do Data Workbench, inclui
 
 ## Por que o Data Workbench será descontinuado?
 
-Com o lançamento e aprimoramento contínuo da Adobe Experience Platform, clientes podem combinar dados entre canais e usá-los em várias soluções da Adobe. Mais especificamente, o [Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR) permite coletar dados de vários canais para executar uma análise avançada.
+Com o lançamento e aprimoramento contínuo da Adobe Experience Platform, clientes podem combinar dados entre canais e usá-los em várias soluções da Adobe. Mais especificamente, o [Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) permite coletar dados de vários canais para executar uma análise avançada.
 
 A maioria dos recursos e casos de uso atualmente disponíveis no Data Workbench estão disponíveis nas soluções da Adobe Experience Platform. No entanto, há casos limitados em que a funcionalidade do Data Workbench não é replicada com uma respectiva solução da Adobe Experience Platform. Entre em contato com o(a) gerente de conta da Adobe da sua organização para discutir áreas específicas de compatibilidade de recursos ou casos de uso.
 
@@ -35,11 +35,10 @@ Você poderá comprar o Adobe Professional Services até a data de fim da vida �
 
 Atualmente, a Adobe oferece as seguintes soluções da Adobe Experience Platform que atendem a necessidades semelhantes às do Data Workbench:
 
-* [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR): use técnicas de análise avançada (como atribuição, filtros, fluxo e fallout) em dados de vários canais da Adobe Experience Platform.
-* [**Serviço de consulta**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html?lang=pt-BR): execute consultas SQL em dados da Adobe Experience Platform.
-* [**Preparo de dados**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=pt-BR): mapeie, transforme e valide dados para aumentar a eficiência de uso em outras soluções da Adobe Experience Platform.
+* [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html): use técnicas de análise avançada (como atribuição, filtros, fluxo e fallout) em dados de vários canais da Adobe Experience Platform.
+* [**Serviço de consulta**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html): execute consultas SQL em dados da Adobe Experience Platform.
+* [**Preparo de dados**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html): mapeie, transforme e valide dados para aumentar a eficiência de uso em outras soluções da Adobe Experience Platform.
 
 ## Onde posso obter mais informações?
 
 Entre em contato com o(a) gerente de conta da Adobe de sua organização para obter detalhes ou fazer perguntas sobre este [comunicado de fim da vida útil](https://express.adobe.com/page/GSu6oKOD88GAj/).
-
