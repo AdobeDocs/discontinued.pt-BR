@@ -6,9 +6,8 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
-hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 7f84f2196a1a3a477c05f803eff3cc8eae6b0678
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 8%
@@ -17,7 +16,7 @@ ht-degree: 8%
 
 # Teste oculto
 
-10 de março de 2026, 9:25 - `hold: true` está em.
+10 de março de 2026, 9:25 - `hold: true` está desativado.
 
 Testando nova chave
 
@@ -25,23 +24,23 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 ## Abrir em uma nova guia {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir na mesma guia](auditor.md)
 
-[Nova guia com espaço e aspas](auditor.md){target="_blank"} 
+[Nova guia com espaço e aspas](auditor.md) {target="_blank"}
 
-[Nova guia com Âncora](auditor.md){target=_blank}
+[Nova guia com Âncora](auditor.md){target=&quot;_blank}
 
 [Nova guia sem espaço com aspas](auditor.md){target="_blank"}
 
-[Nova guia com espaço sem aspas](auditor.md){target=_blank} 
+[Nova guia com espaço sem aspas](auditor.md) {target=_blank}
 
 [Nova guia sem espaço sem aspas](auditor.md){target=_blank}
 
 [Nova guia com deep link](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancorar nova guia com deep link](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancorar nova guia com deep link](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nova guia com link externo](https://www.adobe.com){target="_blank"}
 
@@ -100,15 +99,15 @@ Esta linha aparece após o comentário.
 
 ### Vídeo simples sem transcrição - deve mostrar a transcrição porque o arquivo metadata.md é exibido
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Com transcrição definida como verdadeira
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Com a transcrição definida como falsa - a transcrição do vídeo não deve ser exibida
 
->[!VIDEO](https://video.tv.adobe.com/v/3414225?captions=por_br&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Links relativos
 
