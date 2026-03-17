@@ -2,10 +2,10 @@
 title: Fim do serviço do [!DNL Adobe Livefyre]
 description: Lembrete de fim do serviço do Livefyre e do Livefyre Studio.
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 93%
+source-wordcount: '243'
+ht-degree: 94%
 
 ---
 
@@ -30,4 +30,3 @@ Não. O Livefyre será encerrado em 30 de novembro de 2021. A Adobe está recome
 ### **_Com quem posso entrar em contato para saber mais?_**
 
 Entre em contato com seu CSM (Gerente de sucesso do cliente) ou Shelly Chiang (`schiang@adobe.com`) com qualquer pergunta.
-

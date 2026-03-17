@@ -1,12 +1,11 @@
 ---
 title: Documentação do produto [!DNL Adobe Social]
 description: Recursos do Guia do Usuário do [!DNL Adobe Social]
-hold: true
 exl-id: 48527ae3-bc6a-4f30-9309-701bb2be0650
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 61%
+source-wordcount: '54'
+ht-degree: 64%
 
 ---
 
@@ -15,5 +14,3 @@ ht-degree: 61%
 Em 30 de janeiro de 2020, a Adobe descontinuou oficialmente o produto [!DNL Adobe Social]. Ele não está mais disponível para acesso.
 
 Para clientes que desejam comprar uma plataforma de [!DNL Social Media Management], a Adobe fez parceria com um provedor líder de gerenciamento de redes sociais. Se você quiser ser colocado em contato, vá para <https://exchange.adobe.com/> para obter informações.
-
-16 de março de 2026
