@@ -2,10 +2,10 @@
 title: Aviso de fim de vida útil do Reports and Analytics
 description: Lembrete do fim de vida útil do Reports and Analytics.
 exl-id: e6d8f3e7-7070-44f9-aa2a-aad297d15847
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 72%
 
 ---
 
@@ -13,5 +13,4 @@ ht-degree: 100%
 
 Em 17 de janeiro de 2024, a Adobe descontinuou o Reports &amp; Analytics e os relatórios e recursos que o acompanham. Nesse momento, o Reports &amp; Analytics e todos os seus relatórios e agendamentos pararam de funcionar. Os relatórios, visualizações e tecnologias subjacentes que alimentam o Reports &amp; Analytics não atendem mais aos padrões de tecnologia da Adobe. A maioria dos recursos do Reports &amp; Analytics está disponível no Analysis Workspace. Para obter informações sobre o uso de relatórios no Analysis Workspace, consulte [Usar relatórios pré-criados](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/reports/use-reports.html?lang=pt-BR).
 
-Desde o lançamento do Analysis Workspace em 2015, as funcionalidades e os recursos do Reports &amp; Analytics foram movidos para o Analysis Workspace e um limite de paridade de fluxo de trabalho foi atingido. [Este anúncio do fim da vida útil](https://new.express.adobe.com/webpage/WFCyq7w8kijmB?) explica o processo.
-
+Desde o lançamento do Analysis Workspace em 2015, a funcionalidade e os recursos do Reports &amp; Analytics foram movidos para o Analysis Workspace e um limite de paridade de fluxo de trabalho foi atingido. [Este anúncio do fim da vida útil](https://new.express.adobe.com/webpage/WFCyq7w8kijmB?) explica o processo do fim da vida útil.
