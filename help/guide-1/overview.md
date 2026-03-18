@@ -2,7 +2,7 @@
 title: Visão geral dos produtos [!DNL Adobe Experience Cloud] descontinuados
 description: Visão geral de produtos descontinuados ou em fim de vida útil para  [!DNL Adobe Experience Cloud]  e  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: 8f986d390bbf804faf0188964069a2198a6f5eee
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
@@ -54,4 +54,3 @@ Ocasionalmente, a Adobe encerra a venda, o desenvolvimento ou o suporte para um 
 >[!MORELIKETHIS]
 >
 >Para obter uma lista de aplicativos e serviços adicionais descontinuados da Adobe, consulte [Produtos gratuitos e descontinuados | Opções de suporte](https://helpx.adobe.com/br/support/programs/support-options-free-discontinued-apps-services.html).
-

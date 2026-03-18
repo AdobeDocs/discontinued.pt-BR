@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Perguntas frequentes sobre o fim da vida útil do [!DNL Device Co-op]
 description: Saiba mais sobre os planos de fim de vida útil do Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
-source-wordcount: '1053'
-ht-degree: 100%
+source-wordcount: '1216'
+ht-degree: 88%
 
 ---
 
@@ -22,11 +22,11 @@ Veja a seguir uma lista de respostas para perguntas frequentes sobre o plano de 
 
 ## Por que o [!DNL Device Co-op] está sendo descontinuado?
 
-As próximas alterações no ambiente AdTech devem resultar no [!DNL Device Co-op] se tornando uma solução obsoleta nos próximos anos. O [!DNL Device Co-op] é composto principalmente de cookies de terceiros e o comunicado do [!DNL Google's], de que eles estarão bloqueando cookies de terceiros no [!DNL Google Chrome] até 2022, diminuirá a eficácia do [!DNL Device Co-op]. O [!DNL Chrome] tem aproximadamente 65% da quota de mercado do navegador e outros principais navegadores já implementaram o bloqueio de cookies de terceiros. Uma vez que o [!DNL Chrome] bloqueia cookies de terceiros, a maioria dos cookies de terceiros será bloqueada e o [!DNL Device Co-op] se tornará obsoleto.
+As próximas alterações no ambiente AdTech devem resultar no [!DNL Device Co-op] tornando-se uma solução obsoleta nos próximos anos. [!DNL Device Co-op] O é composto principalmente de cookies de terceiros e o anúncio de [!DNL Google's] de que eles bloquearão cookies de terceiros no [!DNL Google Chrome] até 2022 diminuirá a eficácia do [!DNL Device Co-op]. [!DNL Chrome] A tem ~65% da participação no mercado de navegadores e outros navegadores principais já implementaram o bloqueio de cookies de terceiros. Uma vez que o [!DNL Chrome] bloqueia cookies de terceiros, a maioria dos cookies de terceiros será bloqueada e o [!DNL Device Co-op] se tornará obsoleto.
 
 ## Por que a Adobe está encerrando as inscrições do [!DNL Device Co-op] agora?
 
-As inscrições estão sendo encerradas para evitar riscos de não atender às expectativas dos clientes devido às próximas alterações do setor em cookies de terceiros. O [!DNL Device Co-op] demora alguns meses para ser preparado e mais alguns meses para extrair valor do serviço. A partir de agora, quaisquer novas inscrições poderiam resultar em marcas que não experienciariam o valor total do [!DNL Device Co-op].
+As inscrições estão terminando para evitar o risco de não atender às expectativas do cliente devido às próximas mudanças no setor em torno de cookies de terceiros. [!DNL Device Co-op] O leva alguns meses para ser preparado e mais alguns meses para extrair valor do serviço. A partir de agora, quaisquer novas inscrições poderiam resultar em marcas que não experienciariam o valor total do [!DNL Device Co-op].
 
 ## Em julho de 2022, o Google anunciou o atraso da desativação de cookies de terceiros no Chrome para 2024. Isso afetará os planos de EOL do [!DNL Device Co-op]?
 
@@ -88,7 +88,7 @@ Sua implementação existente do Serviço de ID de visitante capacita o Analytic
 
 ## Posso manter meus dados do [!DNL Device Co-op]?
 
-Para usuários do [!DNL Audience Manager] e da [!DNL Advertising Cloud], os dados do [!DNL Device Co-op] não estarão disponíveis para transferência para gráficos de terceiros. Os dados do [!DNL Device Co-op] serão migrados somente para usuários do [!DNL Analytics Ultimate] usando o CDA com o [!DNL Device Co-op] alternando para Configuração em campo. Todas as outras soluções não terão seus dados migrados.
+Para [!DNL Audience Manager] e [!DNL Advertising Cloud] usuários, os dados de [!DNL Device Co-op] não estarão disponíveis para serem transferidos para gráficos de terceiros. [!DNL Device Co-op] Os dados só serão migrados para [!DNL Analytics Ultimate] usuários usando o CDA com [!DNL Device Co-op] alternando para a Compilação em Campo. Todas as outras soluções não terão seus dados migrados.
 
 ## É obrigatório adotar outros recursos?
 
@@ -105,3 +105,4 @@ Isso dependerá do recurso. Por exemplo, se um cliente do Analytics Ultimate que
 ## E quanto à métrica [!UICONTROL Pessoas]?
 
 Com a descontinuação do [!DNL Device Co-op], a métrica [!UICONTROL Pessoas] não será mais relevante. Em 8 de maio de 2023, removeremos a métrica [!UICONTROL Pessoas]. Quando isso ocorrer, redirecionaremos esses dados para a métrica [!UICONTROL Visitante único] no Analytics para impedir que projetos, segmentos e métricas calculadas sejam prejudicados.
+
