@@ -19,7 +19,7 @@ Este comunicado afeta todas as soluções que dependem do Data Workbench, inclui
 
 ## Por que o Data Workbench será descontinuado?
 
-Com o lançamento e aprimoramento contínuo da Adobe Experience Platform, clientes podem combinar dados entre canais e usá-los em várias soluções da Adobe. Mais especificamente, o [Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) permite coletar dados de vários canais para executar uma análise avançada.
+Com o lançamento e aprimoramento contínuo da Adobe Experience Platform, clientes podem combinar dados entre canais e usá-los em várias soluções da Adobe. Mais especificamente, o [Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR) permite coletar dados de vários canais para executar uma análise avançada.
 
 A maioria dos recursos e casos de uso atualmente disponíveis no Data Workbench estão disponíveis nas soluções da Adobe Experience Platform. No entanto, há casos limitados em que a funcionalidade do Data Workbench não é replicada com uma respectiva solução da Adobe Experience Platform. Entre em contato com o(a) gerente de conta da Adobe da sua organização para discutir áreas específicas de compatibilidade de recursos ou casos de uso.
 
@@ -35,9 +35,9 @@ Você poderá comprar o Adobe Professional Services até a data de fim da vida �
 
 Atualmente, a Adobe oferece as seguintes soluções da Adobe Experience Platform que atendem a necessidades semelhantes às do Data Workbench:
 
-* [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html): use técnicas de análise avançada (como atribuição, filtros, fluxo e fallout) em dados de vários canais da Adobe Experience Platform.
-* [**Serviço de consulta**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html): execute consultas SQL em dados da Adobe Experience Platform.
-* [**Preparo de dados**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html): mapeie, transforme e valide dados para aumentar a eficiência de uso em outras soluções da Adobe Experience Platform.
+* [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=pt-BR): use técnicas de análise avançada (como atribuição, filtros, fluxo e fallout) em dados de vários canais da Adobe Experience Platform.
+* [**Serviço de consulta**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html?lang=pt-BR): execute consultas SQL em dados da Adobe Experience Platform.
+* [**Preparo de dados**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=pt-BR): mapeie, transforme e valide dados para aumentar a eficiência de uso em outras soluções da Adobe Experience Platform.
 
 ## Onde posso obter mais informações?
 
