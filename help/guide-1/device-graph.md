@@ -2,7 +2,7 @@
 keywords: Gráfico de dispositivos;fim da vida útil
 title: Gráfico de dispositivos
 description: Saiba mais sobre os planos para o fim da vida útil do gráfico de dispositivos.
-source-git-commit: bb33d25c2f7f7fa7a3d133c9f9b7c89387ff78e4
+source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
@@ -34,3 +34,4 @@ Se você pretendia implementar o Cross-Device Analytics usando o método de grá
 * As IDs herdadas do Analytics não são compatíveis. Somente os visitantes com Experience Cloud IDs são compilados.
 * Se sua organização usar um Gráfico privado, novos dispositivos levarão até 24 horas para serem compilados.
 * Os gráficos de dispositivos de terceiros não são compatíveis.
+
