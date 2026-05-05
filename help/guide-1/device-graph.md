@@ -2,7 +2,7 @@
 keywords: Gráfico de dispositivos;fim da vida útil
 title: Gráfico de dispositivos
 description: Saiba mais sobre os planos para o fim da vida útil do gráfico de dispositivos.
-source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
+source-git-commit: 972d090153630545e18ca192f64dfb198044d8ee
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
