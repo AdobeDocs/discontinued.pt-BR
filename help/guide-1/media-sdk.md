@@ -122,6 +122,6 @@ Entre em contato com a equipe de conta da Adobe ou com o Atendimento ao cliente 
 
 >[!MORELIKETHIS]
 >
->* [Visão geral da implementação de mídia de streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [Streaming de Mídia para Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
->* [Media SDK 3.x — Configuração do JavaScript](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
+>* [Visão geral da implementação de mídia de streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html?lang=pt-BR)
+>* [Streaming de Mídia para Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html?lang=pt-BR)
+>* [Media SDK 3.x — Configuração do JavaScript](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html?lang=pt-BR)
