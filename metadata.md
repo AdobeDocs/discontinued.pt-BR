@@ -1,19 +1,17 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.pt-BR
+git-repo: https://github.com/AdobeDocs/discontinued.en
 auto-video-transcripts: true
 index: true
 debug: yes
 author: various
-test: true
 usetq: true
-source-git-commit: 079a1d3de84ea314ebfcbd1d20ef279475ac8e59
+source-git-commit: c7ef81a7b89a8440a7cd615f38a59641458c1164
 workflow-type: tm+mt
 source-wordcount: 68
 ht-degree: 76%
