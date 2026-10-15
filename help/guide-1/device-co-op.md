@@ -7,9 +7,7 @@ source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
 source-wordcount: '1213'
 ht-degree: 95%
-
 ---
-
 # Perguntas frequentes sobre o fim da vida útil do [!DNL Device Co-op]
 
 Este documento fornece respostas a perguntas frequentes sobre o plano de fim da vida útil do Device Co-op (EOL). Quando este plano entrar em vigor, a Adobe fornecerá um aviso avançado nas [notas de versão centrais da Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=pt-BR) e na [Atualização de Produto Prioritária](https://www.adobe.com/br/subscription/priority-product-update.html).
