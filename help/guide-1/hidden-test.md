@@ -41,7 +41,7 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
 
 [Ancorar nova guia com deep link](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[Nova guia com link externo](https://www.adobe.com){target="_blank"}
+[Nova guia com link externo](https://www.adobe.com/br){target="_blank"}
 
 [Novo link da raiz da guia](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ Este é um teste oculto. Estou adicionando este `[` para garantir que funcione b
     <th>Sem aspas</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Nova guia Adobe</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Nova guia Adobe</td>
+    <td><a href="https://www.adobe.com/br" target="_blank">Nova guia Adobe</a></td>
+    <td><a href="https://www.adobe.com/br" target="_blank">Nova guia Adobe</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe sem nova guia</a></td>
-    <td><a href="https://www.adobe.com">Adobe sem nova guia</td>
+    <td><a href="https://www.adobe.com/br">Adobe sem nova guia</a></td>
+    <td><a href="https://www.adobe.com/br">Adobe sem nova guia</td>
   </tr>
 </table>
 
