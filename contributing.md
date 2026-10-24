@@ -1,60 +1,59 @@
 ---
 source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
-workflow-type: ht
-source-wordcount: '294'
-ht-degree: 100%
-
+workflow-type: tm+mt
+source-wordcount: '300'
+ht-degree: 34%
 ---
 # Contribuição
 
-Agradecemos sua contribuição!
+Obrigado por contribuir!
 
-Veja a seguir um conjunto de orientações a serem seguidas ao contribuir para esse projeto.
+A seguir, um conjunto de orientações a serem seguidas ao contribuir para esse projeto.
 
-## Código de Conduta
+## Código de conduta
 
-Este projeto segue o [código de conduta](code-of-conduct.md) da Adobe. Ao participar,
-você deve manter esse código. Informe um comportamento inaceitável para
+Este projeto adere ao [código de conduta](code-of-conduct.md) da Adobe. Ao participar,
+espera-se que você mantenha esse código. Denuncie comportamento inaceitável para
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## Documentação do Guia do colaborador
 
-Consulte o [Manual do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
+Consulte o [Guia do colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR).
 
-## Tem alguma pergunta?
+## Dúvidas?
 
-Comece ao denunciar um problema. Os atuais responsáveis por este projeto trabalham para chegar
-a um consenso sobre a direção do projeto e encontrar soluções dentro das conversas 
+Comece registrando um problema. Os executores existentes neste projeto trabalham para alcançar
+consenso sobre a direção do projeto e soluções de problemas nos threads de problemas
 (quando apropriado).
 
-## Contrato de licença do colaborador
+## Contrato de licença de colaborador
 
-Todas as contribuições de terceiros para este projeto devem ser acompanhadas por um contrato de licença
-de colaboração assinado. Isso concede à Adobe permissão para redistribuir suas contribuições
+Todas as contribuições de terceiros a este projeto devem ser acompanhadas por um contribuidor assinado
+contrato de licença. Dessa forma, a Adobe tem permissão para redistribuir suas contribuições
 como parte do projeto. [Assine nosso CLA](http://opensource.adobe.com/cla.html). Você
-precisa apenas enviar um CLA da Adobe uma vez, portanto, se você já enviou um anteriormente,
-você está pronto!
+é necessário enviar apenas um Adobe CLA por vez. Se já tiver enviado anteriormente,
+você está pronto para ir!
 
-## Revisões de código
+## Revisões do código
 
-Todos os envios devem assumir a forma de solicitações de pull
-e devem ser revisados pelos responsáveis pelo projeto. Leia a [documentação de solicitação de pull automática do GitHub](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-para obter mais informações sobre como enviar solicitações de pull automática.
+Todos os envios devem vir na forma de solicitações de pull e precisam ser revisados
+pelos responsáveis pelo projeto. Leia a documentação de solicitação de pull do [GitHub](https://help.github.com/articles/about-pull-requests/)
+para obter mais informações sobre envio de pull requests.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Do colaborador para a confirmação
+## Do colaborador para o autor do commit
 
-Adoramos as contribuições de nossa comunidade! Caso deseje dar um passo além da colaboração
-e se tornar um confirmador com pleno acesso à gravação e à opinião no projeto, você
-deve ser convidado para o projeto. Os confirmadores atuais utilizam um processo de indicação interno
-que deve alcançar um consenso lento (silêncio é aprovação) antes
-de os convites serem emitidos. Se você se sentir qualificado e quiser se envolver mais profundamente,
-sinta-se à vontade para alcançar os compromissos existentes e conversar sobre isso.
+Adoramos as contribuições de nossa comunidade! Se você quiser ir além como colaborador
+e se tornar um executor com acesso total à gravação e voz ativa no projeto, você deve
+para o projeto. Os responsáveis existentes empregam uma indicação interna
+processo que deve alcançar consenso lento (silêncio é aprovação) antes dos convites
+são emitidos. Se você se sentir qualificado e quiser se envolver mais,
+fique à vontade para entrar em contato com os responsáveis existentes e conversar sobre isso.
 
 ## Problemas de segurança
 
-Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [envie um problema para nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)
+Problemas de segurança não devem ser relatados neste rastreador de problemas. Em vez disso, [registre um problema com nossos especialistas em segurança](https://helpx.adobe.com/br/security/alertus.html)
